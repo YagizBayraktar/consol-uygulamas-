@@ -6,7 +6,7 @@ from matematik import carpim_tablosu, ritmik_sayma, not_hesaplama
 from donusum import bmi, sicaklik, doviz
 
 while True:
-    print("╔════════════════════════════╗)
+    print("╔════════════════════════════╗")
     print("║\n===    Prpje Görevi    ===╣")
     print("╠════════════════════════════╣")
     print("║   1- Hesap Makinesi        ║")
