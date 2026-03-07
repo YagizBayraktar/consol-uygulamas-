@@ -1,23 +1,26 @@
-from hesapmakinesi import hesapmakinesi
-from oyun import oyunlar
-from sekil import sekil 
-from takvim import takvim
-from ritmik sayma import maatematik
+from hesap_makinesi import hesap_makinesi
+from oyunlar import sayi_tahmin
+from sekil import ucgen
+from takvim_modul import bugun
+from matematik import carpim_tablosu, ritmik_sayma, not_hesaplama
 from donusum import bmi, sicaklik, doviz
 
 while True:
-    print("\n=== PYTHON ÇALIŞMALARI ===")
-    print("1- Hesap Makinesi")
-    print("2- Oyun")
-    print("3- Şekil Çiz")
-    print("4- Takvim")
-    print("5- Ritmik Sayma")
-    print("6- Not Hesaplama")
-    print("7- Çarpım Tablosu")
-    print("8- BMI")
-    print("9- Döviz")
-    print("10- Sıcaklık")
-    print("11- Çıkış")
+    print("╔════════════════════════════╗)
+    print("║\n===    Prpje Görevi    ===╣")
+    print("╠════════════════════════════╣")
+    print("║   1- Hesap Makinesi        ║")
+    print("║   2- Oyun                  ║")
+    print("║   3- Şekil Çiz             ║")
+    print("║   4- Takvim                ║")
+    print("║   5- Ritmik Sayma          ║")
+    print("║   6- Not Hesaplama         ║")
+    print("║   7- Çarpım Tablosu        ║")
+    print("║   8- BMI                   ║")
+    print("║   9- Döviz                 ║")
+    print("║   10- Sıcaklı              ║")
+    print("║   11- Çıkış                ║")
+    print("╚════════════════════════════╝")
 
     secim = input("Seçim: ")
 
