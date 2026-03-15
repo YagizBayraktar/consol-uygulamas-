@@ -1,6 +1,6 @@
 from hesap_makinesi import hesap_makinesi
 from oyunlar.oyun_main import oyunmenusu
-from sekil import ucgen
+from sekil.sekil_main import anasekil
 from takvim_modul import bugun
 from matematik import carpim_tablosu, ritmik_sayma, not_hesaplama
 from donusum import bmi, sicaklik, doviz
@@ -29,7 +29,7 @@ while True:
     elif secim == "2":
         oyunmenusu()
     elif secim == "3":
-        ucgen()
+        anasekil()
     elif secim == "4":
         bugun()
     elif secim == "5":

@@ -38,6 +38,5 @@ def oyunmenusu():
         oyun_puzzle()
     elif secim == "8":
         print("Çıkılıyor...")
-        break
     else:
         print("Geçersiz seçim!")
