@@ -1,5 +1,5 @@
 from hesap_makinesi import hesap_makinesi
-from oyunlar import sayi_tahmin
+from oyunlar.oyun_main import oyunmenusu
 from sekil import ucgen
 from takvim_modul import bugun
 from matematik import carpim_tablosu, ritmik_sayma, not_hesaplama
@@ -7,7 +7,7 @@ from donusum import bmi, sicaklik, doviz
 
 while True:
     print("╔════════════════════════════╗")
-    print("║\n===    Prpje Görevi    ===╣")
+    print("║\n===    Prpje Görevi    ===\n╣")
     print("╠════════════════════════════╣")
     print("║   1- Hesap Makinesi        ║")
     print("║   2- Oyun                  ║")
@@ -27,7 +27,7 @@ while True:
     if secim == "1":
         hesap_makinesi()
     elif secim == "2":
-        sayi_tahmin()
+        oyunmenusu()
     elif secim == "3":
         ucgen()
     elif secim == "4":

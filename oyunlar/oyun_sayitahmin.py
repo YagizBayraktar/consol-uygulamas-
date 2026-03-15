@@ -1,6 +1,6 @@
 import random
 
-def sayi_tahmin():
+def sayitahmin():
     sayi = random.randint(1, 10)
     tahmin = int(input("1-10 arası tahmin: "))
     if tahmin == sayi:
