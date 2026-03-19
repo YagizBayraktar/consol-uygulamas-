@@ -9,7 +9,7 @@ def sicaklik():
 
 import requests
 
-import requests
+# pip install requests yapmayı unutmayın
 
 # Kullanıcının yazdığı isimleri kodlara çevirir
 para_map = {
@@ -50,7 +50,6 @@ para_map = {
     "avustralya doları": "AUD",
     "avustralya dolari": "AUD",
     "aud": "AUD",
-
     "ruble": "RUB",
     "rus rublesi": "RUB",
     "rub": "RUB",
