@@ -1,9 +1,9 @@
-from hesap_makinesi import hesap_makinesi
+from hesapmakinesi.hesap_main import hesapmakine
 from oyunlar.oyun_main import oyunmenusu
 from sekil.sekil_main import anasekil
 from takvim_modul import bugun
 from matematik import carpim_tablosu, ritmik_sayma, not_hesaplama
-from donusum import bmi, sicaklik, doviz
+from donusum import bmi, sicaklik, doviz_menu
 
 while True:
     print("╔════════════════════════════╗")
@@ -25,7 +25,7 @@ while True:
     secim = input("Seçim: ")
 
     if secim == "1":
-        hesap_makinesi()
+        hesapmakine()
     elif secim == "2":
         oyunmenusu()
     elif secim == "3":
@@ -41,7 +41,7 @@ while True:
     elif secim == "8":
         bmi()
     elif secim == "9":
-        doviz()
+        doviz_menu()
     elif secim == "10":
         sicaklik()
     elif secim == "11":
