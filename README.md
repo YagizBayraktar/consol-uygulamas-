@@ -6,7 +6,12 @@ oyunlar bölümü bu şekilde
 <br>  
 ![alt text](image-7.png) 
 <br>
-hesap makinesinden yapabileceğiniz işlemler bunlar ![alt text](image-8.png)
-çizdirebileceğiniz şekiller bu şekilde ![alt text](image-9.png)
-
+hesap makinesinden yapabileceğiniz işlemler bunlar 
+<br>
+![alt text](image-8.png)
+<br>
+çizdirebileceğiniz şekiller bu şekilde 
+<br>
+![alt text](image-9.png)
+<br>
 konsol uygulamam hakkındaki videoya ulaşmak için tıkla : https://youtu.be/e1C8E7DF3dI
