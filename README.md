@@ -1,5 +1,5 @@
-
-<img width="234" height="229" alt="image" src="https://github.com/user-attachments/assets/57c3857c-e2e1-43a3-af0d-1c22d14d3a41" 
+<img width="226" height="314" alt="image" src="https://github.com/user-attachments/assets/ba31cd7e-18f2-416d-867d-2a909f71cbe7" />
+ 
 gördüğünüz gibi projemi açınca karşınıza böyle bir ekran geliyor.
 bu ekranda yapmak istediğiniz işlemin başındaki harfi terminale yazıp enter' a basınca yeni bir menü geliyor ordaki seçeneklerden yapmak istediğinizi seçip size sorduğu soruları 
 oyunlar bölümü bu şekilde 
