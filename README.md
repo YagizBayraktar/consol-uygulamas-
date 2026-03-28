@@ -5,3 +5,5 @@ bu ekranda yapmak istediğiniz işlemin başındaki harfi terminale yazıp enter
 oyunlar bölümü bu şekilde ![alt text](image-7.png)
 hesap makinesinden yapabileceğiniz işlemler bunlar ![alt text](image-8.png)
 çizdirebileceğiniz şekiller bu şekilde ![alt text](image-9.png)
+
+konsol uygulamam hakkındaki videoya ulaşmak için tıkla : https://youtu.be/e1C8E7DF3dI
